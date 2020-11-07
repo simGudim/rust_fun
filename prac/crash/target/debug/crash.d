@@ -1,0 +1,1 @@
+/Users/simon/Documents/code/git_repo/rust_fun/prac/crash/target/debug/crash: /Users/simon/Documents/code/git_repo/rust_fun/prac/crash/src/lifetimes.rs /Users/simon/Documents/code/git_repo/rust_fun/prac/crash/src/main.rs
