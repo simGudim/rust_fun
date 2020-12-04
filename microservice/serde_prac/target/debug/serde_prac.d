@@ -1,0 +1,1 @@
+/Users/simon/Documents/code/git_repo/rust_fun/microservice/serde_prac/target/debug/serde_prac: /Users/simon/Documents/code/git_repo/rust_fun/microservice/serde_prac/src/color.rs /Users/simon/Documents/code/git_repo/rust_fun/microservice/serde_prac/src/main.rs
