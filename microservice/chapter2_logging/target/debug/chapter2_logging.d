@@ -1,0 +1,1 @@
+/Users/simon/Documents/code/git_repo/rust_fun/microservice/chapter2_logging/target/debug/chapter2_logging: /Users/simon/Documents/code/git_repo/rust_fun/microservice/chapter2_logging/src/main.rs build.rs
